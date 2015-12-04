@@ -13,7 +13,7 @@ public class prime {
     public static void main(String a[]){
         MyPrimeNumCheck mpc = new MyPrimeNumCheck();
         System.out.println("Is 17 prime number? "+mpc.isPrimeNumber(17));
-        System.out.println("Is 19 prime number? "+mpc.isPrimeNumber(19));
+        System.out.println("Is 19 prime number?? "+mpc.isPrimeNumber(19));
         System.out.println("Is 15 prime number? "+mpc.isPrimeNumber(15));
     }
 }
